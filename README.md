@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am interested in Bayesian methods and applications in marketing, choice modeling, and causal inference
 
 <!--
 **totter2/totter2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
